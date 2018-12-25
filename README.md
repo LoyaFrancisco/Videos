@@ -4,7 +4,7 @@ Webpage connecting to Youtube API and allows users to type video names and plays
 
 ### 1) Default view of webpage when first starting up
 
-![screenshot] (/screenshots/Default Search.PNG)
+![screenshot](/screenshots/default_search.PNG)
 
 ### 2) After searching for "machine learning" in search bar
 
